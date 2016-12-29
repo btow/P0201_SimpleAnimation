@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P0201_SimpleAnimation</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="alpha">Alpha</string>
+    <string name="scale">Scale</string>
+    <string name="translate">Translate</string>
+    <string name="rotate">Rotate</string>
+    <string name="combo">Combo</string>
+</resources>
